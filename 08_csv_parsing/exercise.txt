@@ -1,0 +1,1 @@
+Read `data.csv` and print the total number of rows.

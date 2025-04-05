@@ -1,0 +1,1 @@
+Create an SQLite database `students.db` and insert 5 students with grades.

@@ -1,0 +1,1 @@
+Open and read `sample.txt`. Count the number of lines.

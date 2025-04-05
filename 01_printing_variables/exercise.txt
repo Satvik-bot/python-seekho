@@ -1,0 +1,1 @@
+Write a script that asks for a user's name and prints a greeting.
